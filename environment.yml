@@ -1,0 +1,17 @@
+name: pydata_global_2024_causal_ladder
+channels:
+  - conda-forge
+dependencies:
+  - arviz
+  - graphviz
+  - ipykernel
+  - ipython
+  - ipywidgets
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - pymc
+  - pymc-marketing
+  - ruff
+  - watermark
